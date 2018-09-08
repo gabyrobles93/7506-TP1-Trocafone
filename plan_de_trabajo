@@ -14,15 +14,52 @@ Su principal foco es solucionar la problemática de confianza entre personas al 
 
 	. respecto a la condicion del producto: Dependiendo de los resultados obtenidos en el proceso de re-acondicionamiento se realiza el grading del producto para indicar en qué nivel de calidad se podrá comercializar, 
 
-	. respecto a los puntos de venta:     E-commerce: (https://www.trocafone.com en Brasil y https://www.trocafone.com.ar en Argentina)
-    Marketplace: (Con presencia en Brasil dentro de Mercadolivre, B2W, Amazon Brasil y en Argentina dentro de Mercadolibre).
-    Tiendas Físicas (Basadas en Brasil con el branding Trocafone)
+	. respecto a los puntos de venta:     
+		E-commerce: (https://www.trocafone.com en Brasil y https://www.trocafone.com.ar en Argentina)
 
 	.
 
 3) HACERSE PREGUNTAS PONIENDOSE EN EL LUGAR DE LA EMPRESA O NO
+
+. cuantos celulares se compraron por mes
+. que proporcion de usuarios que llegan al checkout cancelan la compra?
+. que proporcion de usuarios que visitaron trocafone compraron un producto?
+. cuantos celulares se vendieron segun su estado
+. cuantos usuarios de android buscan ios
+. cuantos usuarios de ios buscan android
+. cual es el canal que genera mas ventas
+. cuales son los celulares mas populares en compras, por región
+. semanas mas populares en ventas
+. franjas horarias de mayor cantidad de eventos en brasil
+. de los usuarios que entraron por un anuncio pago, cuantos se suscribieron a aviso de stock
+. como llegan a trocafone los usuarios 'new'
+
+ 
+
 4) SEPARAR EN CATEGORÍAS DE PREGUNTAS
+
+1# SOBRE VENTAS...
+Cómo se realizan las ventas. Información útil para gente que trabaje en ventas.
+
+2# SOBRE INGRESO A LA PLATAFORMA (ANUNCIOS, ETC) ...
+Cómo acaparar la atención de los usuarios y aumentar el tráfico en la plataforma. Orietnado a Marketing.
+Productos de moda, etc.
+
+3# SOBRE S.O. RESOLUCION Y DISPOSITIVOS QUE GENERAN EVENTOS...
+Orientado a desarrolladores web y de aplicaciones movil.
+
+4# ANALISIS DE COMPORTAMIENTO EN LA PLATAFORMA
+Buscar conductas y patrones en la navegacion. Flujos de compra y flujos que terminan en nada, etc
+
 5) ASIGNAR UNA CATEGORIA A CADA UNO
+
+
+    Puesto 1: gaby
+    Puesto 2: gonza el hijo de darin
+    Puesto 3: ariel el angel
+    Puesto 4: mati el puntual
+
+
 6) ANALIZAR EN GRUPO EL DATASET (ANALISIS SOBRE LOS DATOS)
 7) GENERAR UN NOTEBOOK CON ESE ANÁLISIS
 8) BRANCHEAR ESE NOTEBOOK POR CATEGORÍA PARA TRABAJAR INDIVIDUALMENTE
